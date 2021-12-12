@@ -1,6 +1,8 @@
 # The command that is executed when the run button is clicked.
 run = ["cargo", "run"]
 
+language = "rust"
+
 # The default file opened in the editor.
 entrypoint = "src/main.rs"
 
