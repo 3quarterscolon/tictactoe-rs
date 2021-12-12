@@ -1,6 +1,6 @@
 on: workflow_dispatch
 
-name: cargo
+name: cargo-workflow
 
 jobs:
   build-release:
